@@ -7,7 +7,6 @@
 		"gold": 3,
 		"culture": 1,
                 "industry": 1,
-		"aaa": 1,
 		"cityStrength": 2,
 		"cost": 1,
 		"uniques": ["Indicates the capital city"]
