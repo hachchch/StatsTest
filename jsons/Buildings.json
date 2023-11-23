@@ -9,6 +9,6 @@
                 "industry": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Indicates the capital city","[+10]% [A] [in this city]"]
+		"uniques": ["Indicates the capital city","[+10]% [Industry] [in this city]"]
         }
 ]
